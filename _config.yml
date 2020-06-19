@@ -2,16 +2,25 @@ title: Heng Ee # your name (or website title) here
 logo: "/images/profile.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Ph.D. Candidate @ Monash University Malaysia. 
-  <br>
+  <br><br>
   Research in the adoption and application of machine learning in mental health.
-  <br>
+  <br><br>
   I'm also a mobile developer, YouTube content creator and start-up founder in the dream.
-  <br>
+  <br><br>
   <a href="https://www.linkedin.com/in/d3aries/">LinkedIn Profile</a> 
-  <br>
+  <br><br>
   <a href="https://stackoverflow.com/users/story/10191554?view=Timeline">StackOverflow Profile</a>   
   <script src="https://apis.google.com/js/platform.js"></script>
   <div class="g-ytsubscribe" data-channelid="UCe_QLqna7cFtTCfZ0a8pycg" data-layout="full" data-count="default"></div>
+  <a href="https://www.patreon.com/join/aipursuit">
+    <img src="https://i.stack.imgur.com/V4jT7.png" alt="Patreon">
+  </a>
+  <a href="https://www.buymeacoffee.com/angustay">
+    <img src="https://i.stack.imgur.com/XGtrF.png" alt="BuyMeACoffee">
+  </a>
+  <a href="https://paypal.me/tayhengee">
+    <img src="https://i.stack.imgur.com/WC15M.png" alt="Paypal">
+  </a>
   
 theme: jekyll-theme-minimal
 google_analytics: UA-169263630-1 # your Google Analytics tracking ID here
