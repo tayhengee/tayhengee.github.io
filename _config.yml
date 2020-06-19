@@ -1,11 +1,13 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+title: Heng Ee # your name (or website title) here
+logo: "/images/profile.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Ph.D. Candidate @ Monash University Malaysia. 
   <br><br>
-  Second description 
+  Research in the adoption and application of machine learning in mental health.
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  I'm also a mobile developer, YouTube content creator and start-up founder in the dream.
+  <br><br>
+  <a href="https://www.linkedin.com/in/d3aries/">My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+google_analytics: UA-169263630-1 # your Google Analytics tracking ID here
