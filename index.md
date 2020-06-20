@@ -2,9 +2,9 @@
 
 ---
 
-### Category Name 1 
+### Open Source Projects 
 
-[Project 1 Title](/sample_page)
+[OpenUni Project](/sample_page)
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
