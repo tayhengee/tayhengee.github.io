@@ -10,9 +10,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <a href="https://www.linkedin.com/in/d3aries/">LinkedIn Profile</a> 
   <br><br>
   <a href="https://stackoverflow.com/users/story/10191554?view=Timeline">StackOverflow Profile</a>   
-  <script src="https://apis.google.com/js/platform.js"></script>
-  <p class="view"><a href="{{ site.github.owner_url }}">GitHub Profile</a></p>
-  <div class="g-ytsubscribe" data-channelid="UCe_QLqna7cFtTCfZ0a8pycg" data-layout="full" data-count="default"></div>
+  
 
   
 theme: jekyll-theme-minimal
