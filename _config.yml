@@ -11,6 +11,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   <a href="https://stackoverflow.com/users/story/10191554?view=Timeline">StackOverflow Profile</a>   
   <script src="https://apis.google.com/js/platform.js"></script>
+  <p class="view"><a href="{{ site.github.owner_url }}">GitHub Profile</a></p>
   <div class="g-ytsubscribe" data-channelid="UCe_QLqna7cFtTCfZ0a8pycg" data-layout="full" data-count="default"></div>
 
   
