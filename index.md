@@ -14,7 +14,7 @@
 
 ### Open Source Projects 
 
-- [TBA](https://tayhengee.github.io/)
+- [TBA]
 
 <!--<img src="images/dummy_thumbnail.jpg?raw=true"/>-->
 
@@ -22,7 +22,7 @@
 
 ### Publications
 
-- [TBA](https://tayhengee.github.io/)
+- [TBA]
 
 ---
 
