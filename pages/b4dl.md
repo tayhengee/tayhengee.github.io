@@ -7,16 +7,9 @@ For both machine learning and deep learning, they are HIGHLY data-dependent! If 
 
 In this tutorial, I will be using ```Scikit-Learn``` and this book: Hands-On Machine Learning with Scikit-Learn & TensorFlow, to give an overview of how a machine learning model is built, specifically supervised learning. 
 
-There are four major components in most machine learning and deep learning system:
-
-1.  Data Construction
-2.  Feature Extraction
-3.  Model Construction
-4.  Model Evaluation
-
 ## Setting up the environment for your machine learning project
 
-Before we start the actual coding, let's setup our coding environment. Yes, you need Python 3 in your workstation. A concise note on how to get started working with Python 3 from [Real Python](https://realpython.com/):
+Before we start the actual tutorial, let's setup our coding environment. Yes, you need Python 3 in your workstation. A concise note on how to get started working with Python 3 from [Real Python](https://realpython.com/):
 
 -   Python can be obtained from the Python Software Foundation website at python.org. Typically, that involves downloading the appropriate installer for your operating system and running it on your machine.
 -   Some operating systems, notably Linux, provide a package manager that can be run to install Python.
@@ -142,6 +135,15 @@ Quoting from the book: Hands-On Machine Learning with Scikit-Learn & TensorFlow,
 Right now the notebook contains only one empty code cell, labeled “In [1]:”. Try typing print("Hello world!") in the cell, and click on the play button (see Figure 2-4) or press Shift-Enter. 
 
 
+### Brief Overview
+
+There are four major components in most machine learning and deep learning system:
+
+1.  Data Construction
+2.  Feature Extraction
+3.  Model Construction
+4.  Model Evaluation
+
 ### Data Construction
 
 Data collection is a crucial step in building a robust model.
@@ -149,3 +151,10 @@ Data collection is a crucial step in building a robust model.
 > Garbage in, garbage out.
 
 As the quote suggested, poor quality of training data will lead to an inaccurate output. In other words, the performance of the model is heavily reliant on the quality of the training data. Hence, the quality and correctness of the data have to be validated before training. In general, data collection is the process of gathering and labeling a collection of ground truth data. It usually involves data acquisition and data labeling, or simply using an existing dataset. For the purpose of this tutorial, I'll be using the [breast cancer Wisconsin dataset](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_breast_cancer.html) and at the same time showing you how to visualize and evaluate the data.
+
+
+```python
+
+
+
+```
