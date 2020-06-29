@@ -4,7 +4,7 @@
 
 ### Notes / Tutorials
 
-- [Before Deep Learning, Let's Machine Learning!](/pages/bf4l)
+- [Before Deep Learning, Let's Machine Learning!](/pages/b4dl)
 
 <!--<img src="images/dummy_thumbnail.jpg?raw=true"/>-->
 
