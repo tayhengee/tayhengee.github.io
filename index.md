@@ -4,15 +4,15 @@
 
 ### Open Source Projects 
 
-[OpenUni Project](/sample_page)
+- [TBA](https://tayhengee.github.io/)
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<!--<img src="images/dummy_thumbnail.jpg?raw=true"/>-->
 
 ---
 
 ### Publications
 
-- [TBA](http://example.com/)
+- [TBA](https://tayhengee.github.io/)
 
 ---
 
